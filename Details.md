@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/manufacturing-anomaly-detection.git
+git clone https://github.com/Shruti_B_29/manufacturing-anomaly-detection.git
 cd manufacturing-anomaly-detection
 pip install -r requirements.txt
 ```
@@ -131,13 +131,13 @@ pip install -r requirements.txt
 ### Key Findings
 
 1. **Statistical Methods**:
-   - [Your findings here]
+   - [findings here]
    
 2. **Machine Learning Methods**:
-   - [Your findings here]
+   - [findings here]
 
 3. **Practical Recommendations**:
-   - [Your recommendations here]
+   - [recommendations here]
 
 ##  Technical Skills Demonstrated
 
@@ -151,14 +151,14 @@ pip install -r requirements.txt
 
 1. Montgomery, D.C. (2012). *Statistical Quality Control*
 2. Chandola, V., Banerjee, A., & Kumar, V. (2009). Anomaly detection: A survey
-3. [Add more relevant references]
+3. [Add ]
 
 ##  Author
 
 **[Shruti]**
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-- Portfolio: [Your Website/GitHub]
+- LinkedIn: [LinkedIn]
+- Email: [Email]
+- Portfolio: [Website/GitHub]
 
 ##  License
 
@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ##  Acknowledgments
 
 - NASA Prognostics Data Repository for the bearing dataset
-- [Add any other acknowledgments]
+- [Add]
 
 ---
 
